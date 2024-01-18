@@ -1,0 +1,107 @@
+[
+    {
+      "Fecha": "2024-01-18 13:42:16",
+      "Profundidad": "41",
+      "Magnitud": "3.2",
+      "RefGeografica": "26 km al SE de Cuya",
+      "FechaUpdate": "2024-01-18T15:50:01.723Z"
+    },
+    {
+      "Fecha": "2024-01-18 11:30:25",
+      "Profundidad": "121",
+      "Magnitud": "2.8",
+      "RefGeografica": "52 km al O de Ollagüe",
+      "FechaUpdate": "2024-01-18T15:50:01.723Z"
+    },
+    {
+      "Fecha": "2024-01-18 11:02:52",
+      "Profundidad": "112",
+      "Magnitud": "3.3",
+      "RefGeografica": "55 km al NE de Cuya",
+      "FechaUpdate": "2024-01-18T15:50:01.723Z"
+    },
+    {
+      "Fecha": "2024-01-18 10:57:21",
+      "Profundidad": "97",
+      "Magnitud": "3.5",
+      "RefGeografica": "28 km al S de Camiña",
+      "FechaUpdate": "2024-01-18T15:50:01.727Z"
+    },
+    {
+      "Fecha": "2024-01-18 10:15:59",
+      "Profundidad": "117",
+      "Magnitud": "3.0",
+      "RefGeografica": "29 km al N de Calama",
+      "FechaUpdate": "2024-01-18T15:50:01.727Z"
+    },
+    {
+      "Fecha": "2024-01-18 07:42:53",
+      "Profundidad": "102",
+      "Magnitud": "3.1",
+      "RefGeografica": "35 km al NO de Camiña",
+      "FechaUpdate": "2024-01-18T15:50:01.727Z"
+    },
+    {
+      "Fecha": "2024-01-18 06:52:20",
+      "Profundidad": "222",
+      "Magnitud": "3.7",
+      "RefGeografica": "77 km al E de Socaire",
+      "FechaUpdate": "2024-01-18T15:50:01.730Z"
+    },
+    {
+      "Fecha": "2024-01-18 06:21:21",
+      "Profundidad": "237",
+      "Magnitud": "2.9",
+      "RefGeografica": "80 km al E de San Pedro de Atacama",
+      "FechaUpdate": "2024-01-18T15:50:01.730Z"
+    },
+    {
+      "Fecha": "2024-01-18 05:56:45",
+      "Profundidad": "118",
+      "Magnitud": "2.5",
+      "RefGeografica": "71 km al NE de Calama",
+      "FechaUpdate": "2024-01-18T15:50:01.730Z"
+    },
+    {
+      "Fecha": "2024-01-18 05:16:19",
+      "Profundidad": "102",
+      "Magnitud": "2.5",
+      "RefGeografica": "30 km al NO de Mina Collahuasi",
+      "FechaUpdate": "2024-01-18T15:50:01.730Z"
+    },
+    {
+      "Fecha": "2024-01-18 04:04:10",
+      "Profundidad": "38",
+      "Magnitud": "3.9",
+      "RefGeografica": "12 km al O de Tongoy",
+      "FechaUpdate": "2024-01-18T15:50:01.733Z"
+    },
+    {
+      "Fecha": "2024-01-18 02:04:47",
+      "Profundidad": "63",
+      "Magnitud": "2.8",
+      "RefGeografica": "36 km al S de Los Vilos",
+      "FechaUpdate": "2024-01-18T15:50:01.733Z"
+    },
+    {
+      "Fecha": "2024-01-18 01:56:30",
+      "Profundidad": "102",
+      "Magnitud": "3.2",
+      "RefGeografica": "58 km al NE de Alto del Carmen",
+      "FechaUpdate": "2024-01-18T15:50:01.733Z"
+    },
+    {
+      "Fecha": "2024-01-18 01:26:50",
+      "Profundidad": "121",
+      "Magnitud": "2.6",
+      "RefGeografica": "72 km al S de Ollagüe",
+      "FechaUpdate": "2024-01-18T15:50:01.737Z"
+    },
+    {
+      "Fecha": "2024-01-18 00:08:22",
+      "Profundidad": "157",
+      "Magnitud": "2.7",
+      "RefGeografica": "20 km al S de Visviri",
+      "FechaUpdate": "2024-01-18T15:50:01.737Z"
+    }
+  ]
